@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TDevTextView">
+        <attr name="fontName" format="reference">
+            <enum name="Kanit" value="1" />
+            <enum name="CSChatThaiUI" value="2" />
+        </attr>
+    </declare-styleable>
+
+</resources>
